@@ -75,7 +75,3 @@ This project is licensed under the MIT License
 
 
 
-
-    Incorporate external factors like earnings reports, news sentiment, or competitor performance to explain stock price movements.
-    Predict future stock prices using machine learning models.
-    Perform a comparative analysis with other major streaming platforms.
