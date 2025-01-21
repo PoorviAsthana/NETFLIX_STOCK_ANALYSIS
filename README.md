@@ -47,10 +47,10 @@ To run this project, it’s recommended to use **Anaconda**, which comes pre-ins
 
 ## Analysis 
 
-    1. Analyzed the trading volume to identify periods of high investor activity.
-    2. Gained the insight of fluctuations in Netflix's stock prices (High, Open, Close) over time.
-    3. Examined stock price trends across different time intervals (daily, monthly, yearly).
-    4. Identified the top 5 highest and lowest stock price days.
+   1. Analyzed the trading volume to identify periods of high investor activity.
+   2. Gained the insight of fluctuations in Netflix's stock prices (High, Open, Close) over time.
+   3. Examined stock price trends across different time intervals (daily, monthly, yearly).
+   4. Identified the top 5 highest and lowest stock price days.
 
 
 ## Conclusion :
@@ -59,9 +59,9 @@ This project provided an insightful exploration of Netflix's historical stock da
 
 Future work may : 
     
-    1) Incorporate external factors like earnings reports, news sentiment, or competitor performance to explain stock price movements.  
-    2) Predict future stock prices using machine learning models.
-    3) Perform a comparative analysis with other major streaming platforms
+   1) Incorporate external factors like earnings reports, news sentiment, or competitor performance to explain stock price movements.  
+   2) Predict future stock prices using machine learning models.
+   3) Perform a comparative analysis with other major streaming platforms
 
 
 ## Licence 
