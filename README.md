@@ -53,7 +53,7 @@ To run this project, it’s recommended to use **Anaconda**, which comes pre-ins
    4. Identified the top 5 highest and lowest stock price days.
 
 
-## Conclusion :
+## Conclusion 
 
 This project provided an insightful exploration of Netflix's historical stock data. By analyzing stock price trends and trading volumes over various timeframes, we observed key patterns and identified significant trading days. The analysis revealed periods of heightened investor activity and fluctuations in stock prices that correlate with broader market behavior.
 
@@ -65,6 +65,7 @@ Future work may :
 
 
 ## Licence 
+
 This project is licensed under the MIT License 
 
 
