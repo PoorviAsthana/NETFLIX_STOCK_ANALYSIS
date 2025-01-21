@@ -64,7 +64,7 @@ Future work may :
    3) Perform a comparative analysis with other major streaming platforms
 
 
-## Licence 
+## License 
 
 This project is licensed under the MIT License 
 
