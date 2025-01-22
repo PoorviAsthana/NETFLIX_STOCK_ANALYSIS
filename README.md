@@ -1,4 +1,4 @@
-# Netflix_stock_analysis 
+# NETFLIX_STOCK_ANALYSIS
 The goal of this project is to analyze Netflix's historical stock data to uncover trends in trading volume and stock prices. By identifying patterns and significant trading days, the analysis aims to provide insights into the stock's performance and market behavior over time.
 
 
